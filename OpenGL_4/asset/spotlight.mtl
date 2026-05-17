@@ -1,0 +1,32 @@
+# Blender 4.2.1 LTS MTL File: 'room.blend'
+# www.blender.org
+
+newmtl Color_M00
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Color_M08
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.117647 0.117647 0.117647
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Translucent_Glass_Tinted
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 0.480000
+illum 9
+map_Kd C:/Users/User/Downloads/uploads_files_2325026_Euro+Spot+LED+czarny+1f_Sketchup2020_OBJ/Euro Spot LED czarny 1f_Sketchup2020_OBJ/Euro Spot LED czarny 1f/Translucent_Glass_Tinted.jpg

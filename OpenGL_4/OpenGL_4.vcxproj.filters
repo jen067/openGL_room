@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="來源檔案">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="標頭檔">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="資源檔">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="common">
+      <UniqueIdentifier>{fb613990-b8be-41f8-a8d8-ff07af721644}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="models">
+      <UniqueIdentifier>{0667acfc-7116-42e6-9149-be508c6a4a76}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="asset">
+      <UniqueIdentifier>{41127c4a-2393-4237-9d4e-f19607da4217}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="common\texture">
+      <UniqueIdentifier>{5003f460-0287-4b42-a07b-4f950e8f8669}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="common\arcball.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="common\CCamera.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="common\CShaderPool.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="common\CSprite2D.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="common\initShader.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="common\wmhandler.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="models\CBottle.cpp">
+      <Filter>models</Filter>
+    </ClCompile>
+    <ClCompile Include="models\CCapsule.cpp">
+      <Filter>models</Filter>
+    </ClCompile>
+    <ClCompile Include="models\CCube.cpp">
+      <Filter>models</Filter>
+    </ClCompile>
+    <ClCompile Include="models\CCup.cpp">
+      <Filter>models</Filter>
+    </ClCompile>
+    <ClCompile Include="models\CCylinder.cpp">
+      <Filter>models</Filter>
+    </ClCompile>
+    <ClCompile Include="models\CDonut.cpp">
+      <Filter>models</Filter>
+    </ClCompile>
+    <ClCompile Include="models\CQuad.cpp">
+      <Filter>models</Filter>
+    </ClCompile>
+    <ClCompile Include="models\CShape.cpp">
+      <Filter>models</Filter>
+    </ClCompile>
+    <ClCompile Include="models\CSphere.cpp">
+      <Filter>models</Filter>
+    </ClCompile>
+    <ClCompile Include="models\CTeapot.cpp">
+      <Filter>models</Filter>
+    </ClCompile>
+    <ClCompile Include="models\CTorusKnot.cpp">
+      <Filter>models</Filter>
+    </ClCompile>
+    <ClCompile Include="common\CLight.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="common\CMaterial.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="models\CBox.cpp">
+      <Filter>models</Filter>
+    </ClCompile>
+    <ClCompile Include="Example3.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="models\CObjModel.cpp">
+      <Filter>models</Filter>
+    </ClCompile>
+    <ClCompile Include="common\TextureLoader.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="common\CButton.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="models\CPlane.cpp">
+      <Filter>models</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="common\arcball.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="common\CCamera.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="common\CShaderPool.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="common\CSprite2D.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="common\initshader.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="common\typedefs.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="common\wmhandler.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="models\CBottle.h">
+      <Filter>models</Filter>
+    </ClInclude>
+    <ClInclude Include="models\CCapsule.h">
+      <Filter>models</Filter>
+    </ClInclude>
+    <ClInclude Include="models\CCube.h">
+      <Filter>models</Filter>
+    </ClInclude>
+    <ClInclude Include="models\CCup.h">
+      <Filter>models</Filter>
+    </ClInclude>
+    <ClInclude Include="models\CCylinder.h">
+      <Filter>models</Filter>
+    </ClInclude>
+    <ClInclude Include="models\CDonut.h">
+      <Filter>models</Filter>
+    </ClInclude>
+    <ClInclude Include="models\CQuad.h">
+      <Filter>models</Filter>
+    </ClInclude>
+    <ClInclude Include="models\CShape.h">
+      <Filter>models</Filter>
+    </ClInclude>
+    <ClInclude Include="models\CSphere.h">
+      <Filter>models</Filter>
+    </ClInclude>
+    <ClInclude Include="models\CTeapot.h">
+      <Filter>models</Filter>
+    </ClInclude>
+    <ClInclude Include="models\CTorusKnot.h">
+      <Filter>models</Filter>
+    </ClInclude>
+    <ClInclude Include="common\CLight.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="common\CMaterial.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="models\CBox.h">
+      <Filter>models</Filter>
+    </ClInclude>
+    <ClInclude Include="models\CObjModel.h">
+      <Filter>models</Filter>
+    </ClInclude>
+    <ClInclude Include="common\stb_image.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="common\TextureLoader.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="common\CButton.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="models\CPlane.h">
+      <Filter>models</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="f_gouraud.glsl">
+      <Filter>來源檔案</Filter>
+    </None>
+    <None Include="v_gouraud.glsl">
+      <Filter>來源檔案</Filter>
+    </None>
+    <None Include="f_phong.glsl">
+      <Filter>來源檔案</Filter>
+    </None>
+    <None Include="v_phong.glsl">
+      <Filter>來源檔案</Filter>
+    </None>
+    <None Include="f_npr.glsl">
+      <Filter>來源檔案</Filter>
+    </None>
+    <None Include="v_npr.glsl">
+      <Filter>來源檔案</Filter>
+    </None>
+    <None Include="ui_fragshader.glsl">
+      <Filter>來源檔案</Filter>
+    </None>
+    <None Include="ui_vtxshader.glsl">
+      <Filter>來源檔案</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="asset\multiCabinet.obj">
+      <Filter>asset</Filter>
+    </Object>
+    <Object Include="asset\chairB.obj">
+      <Filter>asset</Filter>
+    </Object>
+    <Object Include="asset\chairU.obj">
+      <Filter>asset</Filter>
+    </Object>
+    <Object Include="asset\table.obj">
+      <Filter>asset</Filter>
+    </Object>
+    <Object Include="asset\lamp.obj">
+      <Filter>asset</Filter>
+    </Object>
+    <Object Include="asset\drawer.obj">
+      <Filter>asset</Filter>
+    </Object>
+    <Object Include="asset\lampH.obj">
+      <Filter>asset</Filter>
+    </Object>
+    <Object Include="asset\lampO.obj">
+      <Filter>asset</Filter>
+    </Object>
+    <Object Include="asset\latter.obj">
+      <Filter>asset</Filter>
+    </Object>
+    <Object Include="asset\grass.obj">
+      <Filter>asset</Filter>
+    </Object>
+    <Object Include="asset\vase.obj">
+      <Filter>asset</Filter>
+    </Object>
+    <Object Include="asset\wallShelf.obj">
+      <Filter>asset</Filter>
+    </Object>
+    <Object Include="asset\book.obj">
+      <Filter>asset</Filter>
+    </Object>
+    <Object Include="asset\case.obj">
+      <Filter>asset</Filter>
+    </Object>
+    <Object Include="asset\bookset.obj">
+      <Filter>asset</Filter>
+    </Object>
+    <Object Include="asset\spotlight.obj">
+      <Filter>asset</Filter>
+    </Object>
+    <Object Include="asset\cd.obj">
+      <Filter>asset</Filter>
+    </Object>
+    <Object Include="asset\cdplayer.obj">
+      <Filter>asset</Filter>
+    </Object>
+    <Object Include="asset\leaf.obj">
+      <Filter>asset</Filter>
+    </Object>
+    <Object Include="asset\leafVase.obj">
+      <Filter>asset</Filter>
+    </Object>
+    <Object Include="asset\ghost.obj">
+      <Filter>asset</Filter>
+    </Object>
+    <Object Include="asset\ghostEye.obj">
+      <Filter>asset</Filter>
+    </Object>
+    <Object Include="asset\door.obj">
+      <Filter>asset</Filter>
+    </Object>
+    <Object Include="asset\doorFrame.obj">
+      <Filter>asset</Filter>
+    </Object>
+    <Object Include="asset\carpet.obj">
+      <Filter>asset</Filter>
+    </Object>
+    <Object Include="asset\wallLight.obj">
+      <Filter>asset</Filter>
+    </Object>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="common\texture\wood.png">
+      <Filter>common\texture</Filter>
+    </Image>
+    <Image Include="common\texture\woodW.png">
+      <Filter>common\texture</Filter>
+    </Image>
+    <Image Include="common\texture\floor.png">
+      <Filter>common\texture</Filter>
+    </Image>
+    <Image Include="common\texture\flower.png">
+      <Filter>common\texture</Filter>
+    </Image>
+    <Image Include="common\texture\blanket.png">
+      <Filter>common\texture</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
